@@ -1,0 +1,138 @@
+{
+  "engine_enabled": true,
+  "interstitial_every_n_actions": 3,
+  "interstitial_min_interval_ms": 60000,
+  "interstitial_min_watch_ms": 5000,
+  "rewarded_min_watch_ms": 15000,
+  "creatives": [
+    {
+      "id": "sweet_bonanza_video_1",
+      "format": "video",
+      "placements": ["interstitial", "rewarded"],
+      "media_url": "https://babakdriver.xyz/house-ads/twmedia/sweet_bonanza.mp4",
+      "image_url": "https://babakdriver.xyz/house-ads/twmedia/Interstitial_1.png",
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Official Tower Online",
+      "body": "Stack, match and win big!",
+      "cta_text": "Install",
+      "bundle_id": "com.canadianhotel.guide",
+      "weight": 1
+    },
+    {
+      "id": "sweet_bonanza_video_2",
+      "format": "video",
+      "placements": ["interstitial", "rewarded"],
+      "media_url": "https://babakdriver.xyz/house-ads/twmedia/tower.mp4",
+      "image_url": "https://babakdriver.xyz/house-ads/twmedia/Interstitial_2.png",
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Official Tower Online",
+      "body": "Stack, match and win big!",
+      "cta_text": "Install",
+      "bundle_id": "com.canadianhotel.guide",
+      "weight": 1
+    },
+    {
+      "id": "sweet_bonanza_interstitial_1",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://babakdriver.xyz/house-ads/twmedia/Interstitial_1.png",
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Official Tower Online",
+      "body": "Stack, match and win big!",
+      "cta_text": "Install",
+      "bundle_id": "com.canadianhotel.guide",
+      "weight": 1
+    },
+    {
+      "id": "sweet_bonanza_interstitial_2",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://babakdriver.xyz/house-ads/twmedia/Interstitial_2.png",
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Official Tower Online",
+      "body": "Stack, match and win big!",
+      "cta_text": "Install",
+      "bundle_id": "com.canadianhotel.guide",
+      "weight": 1
+    },
+    {
+      "id": "sweet_bonanza_interstitial_3",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://babakdriver.xyz/house-ads/twmedia/Interstitial_3.png",
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Official Tower Online",
+      "body": "Stack, match and win big!",
+      "cta_text": "Install",
+      "bundle_id": "com.canadianhotel.guide",
+      "weight": 1
+    },
+    {
+  "id": "sweet_bonanza_interstitial_text_1",
+  "format": "text",
+  "placements": ["interstitial", "rewarded"],
+  "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+  "title": "Official Tower Online",
+  "body": "Stack, match and win big!",
+  "cta_text": "Install",
+  "bundle_id": "com.canadianhotel.guide",
+  "weight": 1
+},
+{
+  "id": "sweet_bonanza_interstitial_text_2",
+  "format": "text",
+  "placements": ["interstitial", "rewarded"],
+  "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+  "title": "Official Tower Online",
+  "body": "Have a go at the real, authentic Tower",
+  "cta_text": "Install",
+  "bundle_id": "com.canadianhotel.guide",
+  "weight": 1
+},
+    
+    {
+      "id": "sweet_bonanza_banner_1",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://babakdriver.xyz/house-ads/twmedia/BannerAd_1.png",
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Official Tower Online",
+      "cta_text": "Install",
+      "bundle_id": "com.canadianhotel.guide",
+      "weight": 1
+    },
+    {
+      "id": "sweet_bonanza_banner_2",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://babakdriver.xyz/house-ads/twmedia/BannerAd_2.png",
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Official Tower Online",
+      "cta_text": "Install",
+      "bundle_id": "com.canadianhotel.guide",
+      "weight": 1
+    },
+    {
+      "id": "sweet_bonanza_banner_3",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://babakdriver.xyz/house-ads/twmedia/BannerAd_3.png",
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Official Tower Online",
+      "cta_text": "Install",
+      "bundle_id": "com.canadianhotel.guide",
+      "weight": 1
+    },
+    {
+  "id": "sweet_bonanza_banner_text_1",
+  "format": "text",
+  "placements": ["banner"],
+  "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+  "title": "Official Tower Online",
+  "body": "Stack, match and win big!",
+  "cta_text": "Install",
+  "bundle_id": "com.canadianhotel.guide",
+  "weight": 1
+}
+  ]
+}
